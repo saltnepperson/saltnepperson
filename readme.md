@@ -29,3 +29,5 @@
 
 <br />
 <br />
+
+[linkedin]: https://www.linkedin.com/in/tyler-epperson-68b106148/
