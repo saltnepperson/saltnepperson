@@ -1,8 +1,6 @@
-### Hello, all - I'm Tyler! 👋 I'm a Father, Husband, & OpenSourcerer
+### 👋 Hi, I'm Tyler—Python whisperer, TypeScript tamer, and eternal student of the coding craft. 
 
-- 🌱 I’m currently learning micro-service architecture, lambdas, & AWS
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love randomly picking up new hobbies. I've tried everything from woodworking to graphic design.
+With over a decade of engineering prowess, I design solutions that not only scale but also occasionally do my bidding. When I’m not deep in code, I’m probably deciphering the complexities of family life or diving into the latest tech trends. Let’s connect, share knowledge, and create software that stands the test of time—and yes, I debug my family’s gadgets too!
 
 ### Connect with me:
 
