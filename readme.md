@@ -1,6 +1,6 @@
-### 👋 Hi, I'm Tyler—Python whisperer, TypeScript tamer, and eternal student of the coding craft. 
+# 👋 Hi, I'm Tyler a dedicated software engineer, lifelong learner, and proud family man.
 
-With over a decade of engineering prowess, I design solutions that not only scale but also occasionally do my bidding. When I’m not deep in code, I’m probably enjoying family life or diving into the latest tech. Let’s connect, share knowledge, and create awesome software!
+With over a decade of experience in engineering, I focus on creating scalable, reliable solutions that make life a little easier. When I’m not problem-solving in Python, writing projects in Go, or giving Typescript the benefit of the doubt, you’ll find me spending quality time with my family or exploring the latest in software engineering. I believe in building great software without sacrificing work-life balance. Let’s connect and create something awesome together!
 
 ### Connect with me:
 
